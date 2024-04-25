@@ -1,3 +1,2 @@
 ## Moj snake
-
-Wiem ze moglem go zrobic inaczej uzywajac arrayow/list ale nie uzywalem zadnego samouczka oprocz dokumentacji pygame.
+pierwszy programik w pythonie bardziej zaawansowany od zadan do szkoly
